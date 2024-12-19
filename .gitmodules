@@ -1,0 +1,16 @@
+[submodule "hersan"]
+	path = hersan
+	url = git@git.vauxoo.com:vauxoo/hersan.git
+	branch = 18.0
+[submodule "hr"]
+	path = hr
+	url = git@github.com:Vauxoo/hr.git
+	branch = 18.0
+[submodule "hr-advanced"]
+	path = hr-advanced
+	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
+	branch = 18.0
+[submodule "l10n-mx-payroll"]
+	path = l10n-mx-payroll
+	url = git@git.vauxoo.com:vauxoo/l10n-mx-payroll.git
+	branch = 18.0
