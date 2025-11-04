@@ -2,7 +2,7 @@
     "name": "Custom Maintenance Extension",
     "version": "1.0",
     "depends": ["maintenance"],
-    "author": "Tu Nombre o Empresa",
+    "author": "Hersan Hitech",
     "category": "Maintenance",
     "description": "Agrega un nuevo tipo de mantenimiento al módulo de mantenimiento",
     "data": [],
